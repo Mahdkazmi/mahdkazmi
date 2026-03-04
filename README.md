@@ -64,9 +64,9 @@
   <a href="https://www.linkedin.com/in/mahd-kazmi-8a24bb384/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:mahdkazmi004@gmail.com?subject=Contact%20from%20GitHub" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&to=mahdkazmi004@gmail.com&su=Contact%20from%20GitHub" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
 </div>
 
 ###
